@@ -1,6 +1,9 @@
 # easeYourLife
 非常简单的看盘辅助工具
 
+执行效果：
+
+<img width="685" alt="image" src="https://github.com/user-attachments/assets/d748c15d-b821-4ed0-bbab-40d6d22ccd0d" />
 
 
 
